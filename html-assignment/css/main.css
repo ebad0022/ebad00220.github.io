@@ -1,0 +1,42 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+header, footer {
+    background-color: rgb(240, 68, 103);
+}
+
+.site-title {
+    color: beige;
+}
+
+#myimage {
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+#my-hobbies {
+    list-style-type: square;
+}
+
+#my-hobbies:nth-child(odd) {
+    background-color: rgb(226, 43, 83);
+}
+
+nav a {
+    text-decoration: none;
+    background-color: rgb(138, 238, 104);
+    border: 2px solid; color: rgb(216, 159, 85);
+}
+
+nav a:hover {
+    background-color: rgb(31, 139, 19);
+}
+
+nav a:focus {
+    background-color: rgb(126, 1, 39);
+}
+
+ul {
+    list-style-type: none;
+}

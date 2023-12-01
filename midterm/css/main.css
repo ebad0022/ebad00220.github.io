@@ -1,0 +1,112 @@
+/* background of page */
+html {
+    background-color: #aad4cf;
+    font-family: sans-serif;
+}
+
+/* body of page */
+body {
+    margin: auto;
+    width: 1000px;
+}
+
+/* background of content behind info */
+.wrapper {
+    background-color: #d4eae9;
+    margin: 0 auto;
+    width: 900px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+/* title of page */
+
+/* Plagerism? */
+h1 {
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 50;
+    padding-left: 310px;
+    top: 140px;
+
+}
+
+/* long image at the top of page */
+
+
+/* plagerism - same title? */
+
+
+header img {
+    display: inline;
+    width: 900px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* title within page - not main title */
+h2 {
+    font-weight: 50;
+}
+
+/* navigation box */
+
+/* plagerism - same format */
+nav ul li {
+    margin: 0;
+    display: inline;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 0;
+    padding-left: 120px;
+    padding-right: 80px;
+    text-decoration: none;
+}
+
+/* lines beside nav links on top of the page */
+.vertical_line {
+    border-right: solid;
+    border-left: solid;
+}
+
+/* small starfish photo on left side of page */
+.body_image {
+    float: left;
+    width: 25%;
+    margin-right: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 5px;
+}
+
+/* form at bottom of page */
+.form {
+    border: solid;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+/* form space between starfish into and bottom of page */
+
+/* plagerism - same thing? */
+.form_spacing {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* buttons on page */
+button {
+    border: 1px solid;
+    text-align: right;
+    background-color:#d4eae9;
+    text-transform: uppercase;
+    padding: 0.5rem;
+}
+/* copyright footer */
+footer {
+    text-align: right;
+    padding-top: 12px;
+    padding-bottom: 18px;
+}
