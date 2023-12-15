@@ -1,0 +1,86 @@
+/**********************************
+            GLOBAL STYLES
+***********************************/
+
+html {
+    font-family: open sans, sans-serif;
+    font-size: 14px;
+    box-sizing: border-box;
+ }
+
+ body {
+    line-height: 1.5;
+ }
+
+ *,
+ *:after,
+ *:before {
+    box-sizing: inherit;
+ }
+
+ .clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+ }
+
+/*********LoVe HAte**********/
+
+a,
+a:link,
+a:visited {
+   color: inherit;
+}
+
+a:hover,
+a:focus {
+   color: #c78c06;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+   font-weight: bold;
+   margin: 1em 0 0.5em;
+}
+
+/* To make font sizes proportionate */
+
+h1 {
+    font-size: 3.25rem;
+ }
+ h2 {
+    font-size: 1.5rem;
+ }
+ h3 {
+    font-size: 1rem;
+
+ }
+ p {
+    margin: 1em 0;
+ }
+
+ .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1em;
+ }
+
+.bleed1 {
+    background-color: #222;
+}
+
+.nav, ul {
+    text-align: center;
+}
+
+.home {
+    background-color: #c78c06;
+}
+
+@media screen and (min-width:760px) {
+
+
+}
